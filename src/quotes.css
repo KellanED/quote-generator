@@ -1,0 +1,20 @@
+.image {
+    margin-top: 5vh;
+}
+
+.quote {
+    font-size: 5vh;
+    font-family: Gill Sans, sans-serif;
+    margin: 10vh;
+}
+
+.newQuoteButton {
+    border-color: darkslategray;
+    font-weight: bolder;
+    color: darkslategray;
+    font-size: 20px;
+    border-style: double;
+    background: darkgray;
+    margin-top: 11vh;
+    padding: 20px;
+}
